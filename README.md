@@ -28,7 +28,9 @@ Feel free to explore my repositories to see some of the projects I have worked o
 If you have any questions or would like to collaborate on a project, please feel free to reach out to me!
 
 - **Email:** [ompbabhinav2@gmail.com](mailto:ompbabhinav2@gmail.com) 📧
-- **LinkedIn:** [linkedin.com/in/abhinav-ojha](https://www.linkedin.com/in/9abhinav/) 💼
+- **LinkedIn:** [linkedin.com/in/abhinav-ojha](https://www.linkedin.com/in/9abhinav/)
+- **Twitter** [https://x.com/Abhinav43358626](https://x.com/Abhinav43358626)
+- **Portfolio** .[https://abhinav-ojha-portfolio.vercel.app/](https://abhinav-ojha-portfolio.vercel.app/) 
 
 Thank you for visiting my GitHub profile! 🙌
 
